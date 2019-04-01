@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.exchange-table {
+  margin: 0 auto;
+  border: 1px solid #444;
+  border-spacing: 0;
+}
+
+.exchange-table th {
+  border-bottom: 2px solid rgb(94, 87, 87);
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.exchange-table td {
+  padding: 3px 10px;
+  text-align: left;
+
+}
+
+.exchange-table thead tr{
+  padding-bottom: 20px;
+  background-color: rgb(41, 92, 160);
+}
+
+.col-heading {
+  border-right: 2px solid #444;
+  color: black;
+  background-color: rgb(41, 92, 160);
+  font-weight: 500;
+}
+.row-highlight {
+  background-color: #ccc; 
+}
